@@ -192,6 +192,12 @@ html[data-theme="dark"] {
   background-color: #00ab6c;
   box-shadow: var(--medium);
 }
+.social-icon.github:after {
+  background-color: #1f2122;
+  box-shadow: var(--github);
+}
+
+
 
 /*** Social Icon Animations ***/
 
@@ -289,7 +295,7 @@ a:hover {
 }
 
 .footer-left .footer-icons a.github:hover {
-  color: var(--col-white);
+  color: var(--col-icon-github);
 }
 
 .footer-left .footer-icons a i {

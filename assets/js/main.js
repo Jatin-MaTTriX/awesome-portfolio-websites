@@ -32,8 +32,8 @@ let header = $(`
 <nav class="fixed-top black">
 <div class="nav-wrapper">
     <a href="#!" class="brand-logo"><img src="assets/images/John-Doe1.png"></a>
-    <a href="#" data-target="mobile-demo" class="white-text sidenav-trigger"><i
-            class="material-icons">menu</i></a>
+    <a href="#" data-target="mobile-demo" class="white-text sidenav-trigger">
+    <i class="material-icons">menu</i></a>
     <ul class="right hide-on-med-and-down">
         <li><a class="white-text" href="index.html">Home</a></li>
         <li><a class="white-text" href="experience.html">Experience</a></li>
